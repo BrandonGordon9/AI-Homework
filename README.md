@@ -1,2 +1,2 @@
-# AI-Homework1
-Brandon Gordon 3405884 CAP4630 Homework1
+# AI-Homework
+Brandon Gordon 3405884 CAP4630 Homework
